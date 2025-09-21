@@ -1,0 +1,80 @@
+/setblock ~5 ~32 ~ green_concrete
+/setblock ~6 ~32 ~ gray_concrete
+/fill ~7 ~32 ~ ~8 ~32 ~ black_concrete
+/fill ~9 ~32 ~ ~11 ~32 ~ white_concrete
+/setblock ~12 ~32 ~ gray_concrete
+/fill ~13 ~32 ~ ~16 ~32 ~ white_concrete
+/setblock ~17 ~32 ~ green_concrete
+/setblock ~18 ~32 ~ brown_concrete
+/setblock ~19 ~32 ~ blue_concrete
+/setblock ~20 ~32 ~ green_concrete
+/setblock ~21 ~32 ~ gray_concrete
+/fill ~22 ~32 ~ ~24 ~32 ~ black_concrete
+/setblock ~25 ~32 ~ blue_concrete
+/setblock ~26 ~32 ~ white_concrete
+/setblock ~27 ~32 ~ light_gray_concrete
+/fill ~28 ~32 ~ ~30 ~32 ~ white_concrete
+/setblock ~31 ~32 ~ green_concrete
+/setblock ~ ~33 ~ green_concrete
+/setblock ~1 ~33 ~ light_gray_concrete
+/setblock ~2 ~33 ~ gray_concrete
+/setblock ~3 ~33 ~ light_gray_concrete
+/setblock ~4 ~33 ~ white_concrete
+/fill ~5 ~33 ~ ~6 ~33 ~ gray_concrete
+/setblock ~7 ~33 ~ brown_concrete
+/fill ~8 ~33 ~ ~11 ~33 ~ white_concrete
+/setblock ~12 ~33 ~ gray_concrete
+/setblock ~13 ~33 ~ white_concrete
+/setblock ~14 ~33 ~ pink_concrete
+/fill ~15 ~33 ~ ~16 ~33 ~ black_concrete
+/setblock ~17 ~33 ~ light_gray_concrete
+/setblock ~18 ~33 ~ black_concrete
+/setblock ~19 ~33 ~ green_concrete
+/fill ~20 ~33 ~ ~21 ~33 ~ black_concrete
+/setblock ~22 ~33 ~ blue_concrete
+/setblock ~23 ~33 ~ green_concrete
+/setblock ~24 ~33 ~ brown_concrete
+/setblock ~25 ~33 ~ light_gray_concrete
+/setblock ~26 ~33 ~ white_concrete
+/setblock ~27 ~33 ~ light_gray_concrete
+/setblock ~28 ~33 ~ white_concrete
+/setblock ~29 ~33 ~ gray_concrete
+/setblock ~30 ~33 ~ light_gray_concrete
+/setblock ~31 ~33 ~ blue_concrete
+/fill ~ ~34 ~ ~2 ~34 ~ gray_concrete
+/setblock ~3 ~34 ~ light_gray_concrete
+/fill ~4 ~34 ~ ~5 ~34 ~ white_concrete
+/setblock ~6 ~34 ~ brown_concrete
+/setblock ~7 ~34 ~ gray_concrete
+/setblock ~8 ~34 ~ black_concrete
+/setblock ~9 ~34 ~ white_concrete
+/setblock ~10 ~34 ~ gray_concrete
+/setblock ~11 ~34 ~ brown_concrete
+/setblock ~12 ~34 ~ black_concrete
+/fill ~13 ~34 ~ ~14 ~34 ~ white_concrete
+/setblock ~15 ~34 ~ gray_concrete
+/setblock ~16 ~34 ~ brown_concrete
+/setblock ~17 ~34 ~ light_gray_concrete
+/setblock ~18 ~34 ~ green_concrete
+/setblock ~19 ~34 ~ blue_concrete
+/setblock ~20 ~34 ~ green_concrete
+/setblock ~21 ~34 ~ brown_concrete
+/setblock ~22 ~34 ~ green_concrete
+/fill ~23 ~34 ~ ~24 ~34 ~ black_concrete
+/fill ~25 ~34 ~ ~26 ~34 ~ white_concrete
+/setblock ~27 ~34 ~ light_gray_concrete
+/fill ~28 ~34 ~ ~30 ~34 ~ gray_concrete
+/setblock ~31 ~34 ~ brown_concrete
+/setblock ~ ~35 ~ green_concrete
+/setblock ~1 ~35 ~ blue_concrete
+/setblock ~2 ~35 ~ white_concrete
+/setblock ~3 ~35 ~ gray_concrete
+/fill ~4 ~35 ~ ~6 ~35 ~ white_concrete
+/setblock ~7 ~35 ~ gray_concrete
+/setblock ~8 ~35 ~ brown_concrete
+/setblock ~9 ~35 ~ green_concrete
+/setblock ~10 ~35 ~ black_concrete
+/setblock ~11 ~35 ~ white_concrete
+/setblock ~12 ~35 ~ green_concrete
+/setblock ~13 ~35 ~ blue_concrete
+/setblock ~14 ~35 ~ green_concrete

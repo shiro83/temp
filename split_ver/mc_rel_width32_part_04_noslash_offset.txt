@@ -1,0 +1,80 @@
+fill ~4 ~21 ~2 ~6 ~21 ~2 light_gray_concrete
+setblock ~7 ~21 ~2 gray_concrete
+setblock ~8 ~21 ~2 red_concrete
+setblock ~9 ~21 ~2 gray_concrete
+fill ~10 ~21 ~2 ~26 ~21 ~2 black_concrete
+setblock ~27 ~21 ~2 green_concrete
+setblock ~28 ~21 ~2 black_concrete
+setblock ~29 ~21 ~2 blue_concrete
+setblock ~30 ~21 ~2 brown_concrete
+setblock ~31 ~21 ~2 black_concrete
+setblock ~ ~22 ~2 gray_concrete
+setblock ~1 ~22 ~2 light_gray_concrete
+setblock ~2 ~22 ~2 gray_concrete
+setblock ~3 ~22 ~2 brown_concrete
+setblock ~4 ~22 ~2 white_concrete
+setblock ~5 ~22 ~2 pink_concrete
+setblock ~6 ~22 ~2 black_concrete
+setblock ~7 ~22 ~2 gray_concrete
+fill ~8 ~22 ~2 ~9 ~22 ~2 brown_concrete
+fill ~10 ~22 ~2 ~27 ~22 ~2 black_concrete
+setblock ~28 ~22 ~2 green_concrete
+setblock ~29 ~22 ~2 black_concrete
+fill ~30 ~22 ~2 ~31 ~22 ~2 gray_concrete
+setblock ~ ~23 ~2 black_concrete
+setblock ~1 ~23 ~2 light_gray_concrete
+fill ~2 ~23 ~2 ~3 ~23 ~2 gray_concrete
+setblock ~4 ~23 ~2 light_gray_concrete
+fill ~5 ~23 ~2 ~6 ~23 ~2 black_concrete
+fill ~7 ~23 ~2 ~9 ~23 ~2 gray_concrete
+fill ~10 ~23 ~2 ~23 ~23 ~2 black_concrete
+setblock ~24 ~23 ~2 brown_concrete
+fill ~25 ~23 ~2 ~27 ~23 ~2 black_concrete
+setblock ~28 ~23 ~2 brown_concrete
+setblock ~29 ~23 ~2 black_concrete
+setblock ~30 ~23 ~2 gray_concrete
+setblock ~31 ~23 ~2 brown_concrete
+fill ~ ~24 ~2 ~2 ~24 ~2 light_gray_concrete
+setblock ~3 ~24 ~2 brown_concrete
+setblock ~4 ~24 ~2 light_gray_concrete
+fill ~5 ~24 ~2 ~6 ~24 ~2 black_concrete
+setblock ~7 ~24 ~2 gray_concrete
+setblock ~8 ~24 ~2 brown_concrete
+fill ~9 ~24 ~2 ~21 ~24 ~2 black_concrete
+fill ~22 ~24 ~2 ~26 ~24 ~2 white_concrete
+fill ~27 ~24 ~2 ~28 ~24 ~2 black_concrete
+setblock ~29 ~24 ~2 green_concrete
+fill ~30 ~24 ~2 ~31 ~24 ~2 light_gray_concrete
+setblock ~ ~25 ~2 pink_concrete
+setblock ~1 ~25 ~2 light_gray_concrete
+fill ~2 ~25 ~2 ~3 ~25 ~2 white_concrete
+fill ~4 ~25 ~2 ~7 ~25 ~2 black_concrete
+setblock ~8 ~25 ~2 gray_concrete
+fill ~9 ~25 ~2 ~22 ~25 ~2 black_concrete
+fill ~23 ~25 ~2 ~31 ~25 ~2 white_concrete
+setblock ~ ~26 ~2 white_concrete
+setblock ~1 ~26 ~2 light_gray_concrete
+fill ~2 ~26 ~2 ~3 ~26 ~2 white_concrete
+fill ~4 ~26 ~2 ~7 ~26 ~2 black_concrete
+fill ~8 ~26 ~2 ~9 ~26 ~2 gray_concrete
+fill ~10 ~26 ~2 ~16 ~26 ~2 black_concrete
+setblock ~17 ~26 ~2 white_concrete
+fill ~18 ~26 ~2 ~24 ~26 ~2 black_concrete
+setblock ~25 ~26 ~2 white_concrete
+setblock ~26 ~26 ~2 light_gray_concrete
+fill ~27 ~26 ~2 ~28 ~26 ~2 gray_concrete
+fill ~29 ~26 ~2 ~31 ~26 ~2 white_concrete
+setblock ~ ~27 ~2 white_concrete
+setblock ~1 ~27 ~2 light_gray_concrete
+fill ~2 ~27 ~2 ~4 ~27 ~2 white_concrete
+fill ~5 ~27 ~2 ~7 ~27 ~2 black_concrete
+fill ~8 ~27 ~2 ~9 ~27 ~2 gray_concrete
+fill ~10 ~27 ~2 ~24 ~27 ~2 black_concrete
+setblock ~25 ~27 ~2 white_concrete
+setblock ~26 ~27 ~2 light_gray_concrete
+setblock ~27 ~27 ~2 blue_concrete
+setblock ~28 ~27 ~2 brown_concrete
+setblock ~29 ~27 ~2 gray_concrete
+setblock ~30 ~27 ~2 light_gray_concrete
+setblock ~31 ~27 ~2 white_concrete
+fill ~ ~28 ~2 ~4 ~28 ~2 white_concrete
